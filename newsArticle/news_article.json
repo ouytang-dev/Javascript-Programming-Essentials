@@ -1,0 +1,76 @@
+{
+    "articles": [
+      {
+        "title": "Breaking: New Technology Revolutionizes Healthcare",
+        "description": "A groundbreaking technology has emerged that is transforming the way doctors diagnose and treat diseases. The innovation promises faster results and better patient outcomes.",
+        "category": "Technology",
+        "date": "February 19, 2026",
+        "key_points": [
+          "AI-powered diagnostic tools reduce diagnosis time by 60%",
+          "Real-time patient monitoring now available",
+          "Enhanced accuracy in disease detection",
+          "Cost-effective solution for healthcare providers"
+        ],
+        "impact": [
+          "Millions of patients can access better healthcare",
+          "Healthcare providers can treat more patients efficiently",
+          "Early detection of diseases saves lives",
+          "Economic benefits for hospitals and clinics"
+        ]
+      },
+      {
+        "title": "Global Summit on Climate Change Reaches Historic Agreement",
+        "description": "World leaders gather to sign a landmark agreement aimed at reducing carbon emissions and combating climate change. The accord represents a major step forward in environmental protection.",
+        "category": "Environment",
+        "date": "February 18, 2026",
+        "key_points": [
+          "160 countries commit to net-zero emissions by 2050",
+          "Green energy investment reaches $500 billion",
+          "Carbon reduction targets strengthen for major economies",
+          "New renewable energy initiatives announced"
+        ],
+        "impact": [
+          "Significant reduction in global carbon emissions",
+          "Job creation in renewable energy sector",
+          "Protection of natural ecosystems and wildlife",
+          "Long-term economic and environmental sustainability"
+        ]
+      },
+      {
+        "title": "Space Exploration: New Mission to Mars Announced",
+        "description": "Space agencies announce plans for an ambitious mission to Mars, aiming to establish a human settlement on the Red Planet. The mission marks a giant leap for human exploration.",
+        "category": "Science",
+        "date": "February 17, 2026",
+        "key_points": [
+          "Mission planned for 2030 launch",
+          "Advanced spacecraft technology developed",
+          "Crew training program starts next year",
+          "International collaboration brings together best scientists"
+        ],
+        "impact": [
+          "Unprecedented human presence on Mars",
+          "Scientific discoveries about the planet",
+          "Advancement in space technology",
+          "Inspiration for future generations of explorers"
+        ]
+      },
+      {
+        "title": "Economic Recovery: Markets Rise as Unemployment Falls",
+        "description": "Global economic indicators show strong recovery with stock markets reaching new highs and unemployment rates declining significantly across major economies.",
+        "category": "Business",
+        "date": "February 16, 2026",
+        "key_points": [
+          "Unemployment drops to 3.5% globally",
+          "Stock market indices hit all-time highs",
+          "Consumer spending increases by 12%",
+          "New business startups surge to record levels"
+        ],
+        "impact": [
+          "Greater financial security for workers",
+          "Increased investor confidence",
+          "Growth in small business sector",
+          "Improved overall economic stability"
+        ]
+      }
+    ]
+}
